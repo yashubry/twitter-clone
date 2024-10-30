@@ -1,0 +1,30 @@
+/* styles.css */
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.feed {
+  margin-top: 20px;
+}
+
+.tweet {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  border: none;
+  background: none;
+  color: #1DA1F2;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:focus {
+  outline: none;
+}

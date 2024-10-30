@@ -13,4 +13,4 @@ Theres a 'tweet' class you can use to style your tweet.
 
 
 
-export default Tweet;
+// export default Tweet;
